@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515276914787",
+    "project_id": "medical-plus-e5682",
+    "storage_bucket": "medical-plus-e5682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515276914787:android:3cc1e014da843a3d733856",
+        "android_client_info": {
+          "package_name": "com.chiheb.medical_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515276914787-mj156ihcmm56m5psj6rvjju6kreanr6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GO5teXkZkvY4126MHbuZuT-4uhwtQf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515276914787-mj156ihcmm56m5psj6rvjju6kreanr6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
