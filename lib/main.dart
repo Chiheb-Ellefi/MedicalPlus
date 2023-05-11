@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(textTheme: GoogleFonts.interTextTheme()),
-      initialRoute: '/home',
+      initialRoute: '/mainpage',
       routes: {
         '/mainpage': (context) => const MainPage(),
         '/loading': (context) => const Loading(),
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
         '/finddoctor': (context) => const FindDoctor(),
         '/detail': (context) => const Detail(),
       },
-      home: const MyHomePage(),
+      home: const MainPage(),
     );
   }
 }
